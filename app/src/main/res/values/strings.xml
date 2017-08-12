@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatbotTutorial</string>
+
+    <string name="username">your username</string>
+    <string name="password">your password</string>
+    <string name="workspace">your workspace id</string>
+</resources>
